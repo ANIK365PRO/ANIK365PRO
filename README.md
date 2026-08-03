@@ -33,3 +33,27 @@ I am a passionate Full Stack JavaScript Developer from Bangladesh. I enjoy build
 
 - 📧 Email: anikmohanta75@gmail.com
 - 📍 Rangpur, Bangladesh
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ANIK365PRO&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANIK365PRO&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ANIK365PRO&theme=tokyonight" />
+</p>
