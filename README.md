@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Anik Mohanta Suvo
 
-<!--
-**ANIK365PRO/ANIK365PRO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Full Stack JavaScript Developer
 
-Here are some ideas to get you started:
+I am a passionate Full Stack JavaScript Developer from Bangladesh. I enjoy building responsive and scalable web applications using modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Activities
+
+- 🌱 Learning Next.js App Router
+- 🔥 Building SkillSwap Freelance Marketplace
+- 💡 Exploring Better Auth
+- 📚 Improving Express.js & MongoDB skills
+
+---
+
+## 🛠️ Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode" />
+</p>
+
+**Also familiar with:** HeroUI • DaisyUI • Better Auth
+
+---
+
+## 🌐 Connect with Me
+
+- 📧 Email: mohonto05@gmail.com
+- 📍 Rangpur, Bangladesh
