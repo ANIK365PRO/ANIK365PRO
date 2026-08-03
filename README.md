@@ -27,5 +27,5 @@ I am a passionate Full Stack JavaScript Developer from Bangladesh. I enjoy build
 
 ## 🌐 Connect with Me
 
-- 📧 Email: mohonto05@gmail.com
+- 📧 Email: anikmohanta75@gmail.com
 - 📍 Rangpur, Bangladesh
