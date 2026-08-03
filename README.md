@@ -31,7 +31,21 @@ I am a passionate Full Stack JavaScript Developer from Bangladesh. I enjoy build
 
 ## 🌐 Connect with Me
 
-- 📧 Email: anikmohanta75@gmail.com
+- <p align="left">
+
+<a href="mailto:anikmohanta75@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://github.com/ANIK365PRO">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/anik-mohanta">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+</p>
 - 📍 Rangpur, Bangladesh
 
 ---
