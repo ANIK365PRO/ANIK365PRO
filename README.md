@@ -69,7 +69,7 @@ A full-stack platform for discovering skills, posting tasks, and managing freela
 
 ## 🌐 Connect with Me
 
-- <p align="left">
+<p align="left">
 
 <a href="mailto:anikmohanta75@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
@@ -91,16 +91,15 @@ A full-stack platform for discovering skills, posting tasks, and managing freela
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ANIK365PRO&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ANIK365PRO&show_icons=true&theme=tokyonight" />
 </p>
 ---
 
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ANIK365PRO&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANIK365PRO&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
 ## 🔥 GitHub Streak
