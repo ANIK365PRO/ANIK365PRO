@@ -6,7 +6,7 @@
 
 ## 💻 Full-Stack Web Developer
 
-I'm a Junior Full-Stack Web Developer from Bangladesh, passionate about building responsive, scalable, and user-focused web applications with modern JavaScript technologies. I specialize in React, Next.js, Node.js, Express.js, and MongoDB, with a strong interest in modern authentication, animations, and clean user experiences.
+Turning ideas into modern, scalable, and user-focused web experiences. Based in Bangladesh, I specialize in React, Next.js, and the MERN stack, building secure, responsive platforms from frontend interfaces to backend APIs. I am passionate about writing clean code, implementing robust authentication, and creating highly interactive UIs with modern animations.
 
 ---
 
@@ -87,6 +87,7 @@ A full-stack platform for discovering skills, posting tasks, and managing freela
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
+[![Resume](https://img.shields.io/badge/Resume-Informational?style=for-the-badge&logo=pdf&logoColor=white&color=2563EB)](https://drive.google.com/file/d/1_Uo7C6UThMKwpRR5e3jqSIxN-khMiC9L/view?usp=sharing)
 </p>
 - 📍 Rangpur, Bangladesh
 
