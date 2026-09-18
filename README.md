@@ -69,10 +69,6 @@ A full-stack platform for discovering skills, posting tasks, and managing freela
 
 ## 🌐 Connect with Me
 
-<a href="https://drive.google.com/file/d/1_Uo7C6UThMKwpRR5e3jqSIxN-khMiC9L/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/-Download_Resume-0F4C81?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download Resume" />
-</a>
-
 <p align="left">
 
 <a href="mailto:anikmohanta75@gmail.com">
@@ -87,7 +83,14 @@ A full-stack platform for discovering skills, posting tasks, and managing freela
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-[![Resume](https://img.shields.io/badge/Resume-Informational?style=for-the-badge&logo=pdf&logoColor=white&color=2563EB)](https://drive.google.com/file/d/1_Uo7C6UThMKwpRR5e3jqSIxN-khMiC9L/view?usp=sharing)
+<p align="left">
+  <a href="https://anik365portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-0d1b2a?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://drive.google.com/file/d/1_Uo7C6UThMKwpRR5e3jqSIxN-khMiC9L/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Download_Resume-0F4C81?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
+  </a>
+
 </p>
 - 📍 Rangpur, Bangladesh
 
