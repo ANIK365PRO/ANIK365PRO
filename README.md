@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Anik Mohanta Suvo
 
-## 💻 Junior Full-Stack Web Developer
+## 💻 Full-Stack Web Developer
 
 I'm a Junior Full-Stack Web Developer from Bangladesh, passionate about building responsive, scalable, and user-focused web applications with modern JavaScript technologies. I specialize in React, Next.js, Node.js, Express.js, and MongoDB, with a strong interest in modern authentication, animations, and clean user experiences.
 
@@ -68,6 +68,10 @@ A full-stack platform for discovering skills, posting tasks, and managing freela
 ---
 
 ## 🌐 Connect with Me
+
+<a href="https://drive.google.com/file/d/1_Uo7C6UThMKwpRR5e3jqSIxN-khMiC9L/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/-Download_Resume-0F4C81?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download Resume" />
+</a>
 
 <p align="left">
 
